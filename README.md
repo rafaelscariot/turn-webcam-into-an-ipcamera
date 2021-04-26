@@ -1,6 +1,6 @@
 # Turn WebCam into an ip camera
 
-The API contained in this repository accesses the webcam connected to your computer and performs a video stream for your entire local network. Just access the IPV4 address of the computer running the API on port 5000.
+The API contained in this repository accesses the webcam connected to your computer and performs a video stream for your entire local network. Just access the IPV4 address of the computer running the API on port 5000 📷
 
 ## Installation
 
