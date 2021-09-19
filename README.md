@@ -1,4 +1,4 @@
-# 📷 Turn WebCam into an IP camera 📷
+# Turn WebCam into an IP camera
 
 The API contained in this repository accesses the webcam connected to your computer and performs a video stream for your entire local network. Just access the API address with the endpoint /stream. For example: ```http://192.168.0.1:5000/stream```
 
