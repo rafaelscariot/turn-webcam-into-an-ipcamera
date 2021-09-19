@@ -1,6 +1,6 @@
-# Turn WebCam into an ip camera
+# 📷 Turn WebCam into an IP camera 📷
 
-The API contained in this repository accesses the webcam connected to your computer and performs a video stream for your entire local network. Just access the IPV4 address of the computer running the API on port 5000 📷
+The API contained in this repository accesses the webcam connected to your computer and performs a video stream for your entire local network. Just access the API address with the endpoint /stream. For example: ```http://192.168.0.1:5000/stream```
 
 ## Installation
 
@@ -13,7 +13,7 @@ pip install requirements.txt
 ## Usage
 
 ```python
-python run.py
+python app.py
 ```
 
 ## Contributing
